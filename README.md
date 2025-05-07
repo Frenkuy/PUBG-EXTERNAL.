@@ -18,7 +18,7 @@ Bios Type: UEFI
 	<br>
 	<br>
 </h1>
-### password: External-pubg-free
+✅✅✅### password: External-pubg-free
 
 AimBot [Use at own risk]
 
